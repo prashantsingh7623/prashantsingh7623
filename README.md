@@ -1,8 +1,6 @@
-### Hi there 👋
-
 ### Hi there, I'm Prashant 👋
 
-## I'm a Coder, Designer, and Developer!
+## I'm a Developer!
 - 🔭 I’m currently working on a [Portfolio][website]!
 - 🌱 I’m currently learning everything related to web🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -40,39 +38,3 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)]()
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions]()
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!]()
-- [Simple React.js User Login Authentication | Auth0]()
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)]()
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Why We All Need a Personal Website](https://blog.softwarechef.in/Sub-page/otherblog/blog-1/index.html)
-- [Do You Really Want A Full-Stack Developer?](https://blog.softwarechef.in/Sub-page/otherblog/blog-2/index.html)
-- [Level up Your Programming Skills](https://blog.softwarechef.in/Sub-page/otherblog/blog-3/index.html)
-- [Improve your website frequently by using the WOC](https://blog.softwarechef.in/otherblog/blog-4/index.html)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prashantsingh7623&show_icons=true&hide_border=true" />
-
-
-[website]: https://softwarechef.in
-[twitter]: https://twitter.com/hum_hai_ak
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/akshay_not_kumar
-[linkedin]: https://linkedin.com/in/akshay07
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
